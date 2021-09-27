@@ -1,0 +1,7 @@
+.page-wrapper, .mapa-container{
+    height: 100%;
+    width: 100%;
+}
+.mapa{
+    height:1200px;
+}
